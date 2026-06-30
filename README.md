@@ -8,6 +8,7 @@ A quick start project that shows how to split a Word Document using the [.NET Wo
 -	Split document by Placeholders  
 
 ## .NET Word Library
+
 The Syncfusion&reg; DocIO is a [.NET Word library](https://www.syncfusion.com/document-sdk/net-word-library) allows you to add advanced Word document processing functionalities to any .NET application and does not require Microsoft Word application to be installed in the machine. It is a non-UI component that provides a full-fledged document instance model similar to the Microsoft Office COM libraries to iterate with the document elements explicitly and perform necessary manipulation. 
 
 *   Support to [create Word document](https://www.syncfusion.com/document-sdk/net-word-library/create-word-documents) from scratch.
